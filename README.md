@@ -1,11 +1,10 @@
-# 👋 Hi, I'm Pythonwithsean
+# 👋 Hi, I'm Nobu
 
-**`Backend-Stack Developer | Developer/Youtube Creator/Student`**
+**`Front-End Developer | Student`**
 
-A First Year Scholar and a self-taught Software Engineer, keen on results and I have a very good understanding of Data Structures and Algorithms and love making interfaces and Backend Services. I Love Golang and its concurrency and it is my favourite language. I make Youtube Videos about Tech on My channel CodershubUk_ and I love Programming and Learning more About Vim and the Linux Terminal.
+Computer scientist and love creating and learning new web technologies
 
-Checkout My Business Website(Still in Development)
-https://codershub.uk/
+
 
 [![YouTube](https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCh5L0QwH27DuIfV73l4zEjA?sub_confirmation=1 "Subscribe to my YouTube channel")
 
