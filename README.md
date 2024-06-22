@@ -6,10 +6,6 @@ Computer scientist and love creating and learning new web technologies
 
 
 
-[![YouTube](https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCh5L0QwH27DuIfV73l4zEjA?sub_confirmation=1 "Subscribe to my YouTube channel")
-
-![](https://komarev.com/ghpvc/?username=Pythonwithsean&style=for-the-badge)
-
 ---
 
 ### 🧰 Languages and Tools
